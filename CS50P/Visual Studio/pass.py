@@ -1,3 +1,5 @@
+"""Code of PASS and FUNCTION ARGUMENTS"""
+
 def main():
     x = get_int("Enter a number: ")
     print(f"Here is the value of x in {x}")

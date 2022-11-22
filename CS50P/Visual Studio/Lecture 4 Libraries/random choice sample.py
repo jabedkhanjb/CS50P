@@ -18,3 +18,4 @@ card = ["King", "Queen", "Jack"]
 random.shuffle(card)
 for i in card:
     print(i)
+    

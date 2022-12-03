@@ -1,4 +1,4 @@
-name = input("What's your name? ")
+name = input("What's your name? ").title()
 
 # file = open("information.txt", "w")
 file = open("information.txt", "a")
@@ -8,5 +8,5 @@ file = open("information.txt", "a")
     a for append
    
 """
-file.write(name)
+file.write(f"{name}\n")
 file.close()

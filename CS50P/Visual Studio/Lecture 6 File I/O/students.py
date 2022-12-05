@@ -9,7 +9,10 @@ student = []
 with open("names.csv") as folder:
     for line in folder:
         name, house = line.rstrip().split(",")
-        student.append(f"{name} is in {house}")
+        students = {"name" : name, "address" : house}
+        # students["name"] = name
+        # students["address"] = house
+        student.append(students)
         
-for students in sorted(student):
-    print(students)
+for info in sorted(student):
+    print(f"{info['name']} is in {info['address']}")

@@ -1,0 +1,23 @@
+C:\Users\User\Desktop\jabedLab\bin\Debug\net6.0\jabedLab.exe
+C:\Users\User\Desktop\jabedLab\bin\Debug\net6.0\jabedLab.deps.json
+C:\Users\User\Desktop\jabedLab\bin\Debug\net6.0\jabedLab.runtimeconfig.json
+C:\Users\User\Desktop\jabedLab\bin\Debug\net6.0\jabedLab.dll
+C:\Users\User\Desktop\jabedLab\bin\Debug\net6.0\jabedLab.pdb
+C:\Users\User\Desktop\jabedLab\obj\Debug\net6.0\jabedLab.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\jabedLab\obj\Debug\net6.0\jabedLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\jabedLab\obj\Debug\net6.0\jabedLab.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\jabedLab\obj\Debug\net6.0\jabedLab.AssemblyInfo.cs
+C:\Users\User\Desktop\jabedLab\obj\Debug\net6.0\jabedLab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\jabedLab\obj\Debug\net6.0\jabedLab.dll
+C:\Users\User\Desktop\jabedLab\obj\Debug\net6.0\refint\jabedLab.dll
+C:\Users\User\Desktop\jabedLab\obj\Debug\net6.0\jabedLab.pdb
+C:\Users\User\Desktop\jabedLab\obj\Debug\net6.0\jabedLab.genruntimeconfig.cache
+C:\Users\User\Desktop\jabedLab\obj\Debug\net6.0\ref\jabedLab.dll
+D:\Python\Visual Programming C#\jabedLab\obj\Debug\net6.0\jabedLab.csproj.AssemblyReference.cache
+D:\Python\Visual Programming C#\jabedLab\obj\Debug\net6.0\jabedLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Python\Visual Programming C#\jabedLab\obj\Debug\net6.0\jabedLab.AssemblyInfoInputs.cache
+D:\Python\Visual Programming C#\jabedLab\obj\Debug\net6.0\jabedLab.AssemblyInfo.cs
+D:\Python\Visual Programming C#\jabedLab\obj\Debug\net6.0\jabedLab.csproj.CoreCompileInputs.cache
+D:\Python\Visual Programming C#\jabedLab\obj\Debug\net6.0\jabedLab.dll
+D:\Python\Visual Programming C#\jabedLab\obj\Debug\net6.0\refint\jabedLab.dll
+D:\Python\Visual Programming C#\jabedLab\obj\Debug\net6.0\jabedLab.pdb

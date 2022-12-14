@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "y/v8tZCUMByLok0TZW89ulf+zrKZpU/ScAyzFOpOGXtrQRW/B0H2UD5/+YJlSP3b85g4Ib/tk2eJGJ6XhsA/QQ==",
+  "success": true,
+  "projectFilePath": "D:\\Python\\Visual Programming\\TodayPrac\\TodayPrac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jabed Khan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.6\\microsoft.netcore.app.ref.6.0.6.nupkg.sha512",
+    "C:\\Users\\Jabed Khan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.6\\microsoft.windowsdesktop.app.ref.6.0.6.nupkg.sha512",
+    "C:\\Users\\Jabed Khan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.6\\microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512",
+    "C:\\Users\\Jabed Khan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.6\\microsoft.netcore.app.host.win-x64.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

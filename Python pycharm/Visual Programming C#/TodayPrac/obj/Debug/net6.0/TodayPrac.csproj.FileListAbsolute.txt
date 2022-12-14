@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\TodayPrac\bin\Debug\net6.0\TodayPrac.exe
+C:\Users\User\Desktop\TodayPrac\bin\Debug\net6.0\TodayPrac.deps.json
+C:\Users\User\Desktop\TodayPrac\bin\Debug\net6.0\TodayPrac.runtimeconfig.json
+C:\Users\User\Desktop\TodayPrac\bin\Debug\net6.0\TodayPrac.dll
+C:\Users\User\Desktop\TodayPrac\bin\Debug\net6.0\TodayPrac.pdb
+C:\Users\User\Desktop\TodayPrac\obj\Debug\net6.0\TodayPrac.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TodayPrac\obj\Debug\net6.0\TodayPrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TodayPrac\obj\Debug\net6.0\TodayPrac.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TodayPrac\obj\Debug\net6.0\TodayPrac.AssemblyInfo.cs
+C:\Users\User\Desktop\TodayPrac\obj\Debug\net6.0\TodayPrac.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TodayPrac\obj\Debug\net6.0\TodayPrac.dll
+C:\Users\User\Desktop\TodayPrac\obj\Debug\net6.0\refint\TodayPrac.dll
+C:\Users\User\Desktop\TodayPrac\obj\Debug\net6.0\TodayPrac.pdb
+C:\Users\User\Desktop\TodayPrac\obj\Debug\net6.0\TodayPrac.genruntimeconfig.cache
+C:\Users\User\Desktop\TodayPrac\obj\Debug\net6.0\ref\TodayPrac.dll
+D:\Python\Visual Programming\TodayPrac\bin\Debug\net6.0\TodayPrac.exe
+D:\Python\Visual Programming\TodayPrac\bin\Debug\net6.0\TodayPrac.deps.json
+D:\Python\Visual Programming\TodayPrac\bin\Debug\net6.0\TodayPrac.runtimeconfig.json
+D:\Python\Visual Programming\TodayPrac\bin\Debug\net6.0\TodayPrac.dll
+D:\Python\Visual Programming\TodayPrac\bin\Debug\net6.0\TodayPrac.pdb
+D:\Python\Visual Programming\TodayPrac\obj\Debug\net6.0\TodayPrac.csproj.AssemblyReference.cache
+D:\Python\Visual Programming\TodayPrac\obj\Debug\net6.0\TodayPrac.GeneratedMSBuildEditorConfig.editorconfig
+D:\Python\Visual Programming\TodayPrac\obj\Debug\net6.0\TodayPrac.AssemblyInfoInputs.cache
+D:\Python\Visual Programming\TodayPrac\obj\Debug\net6.0\TodayPrac.AssemblyInfo.cs
+D:\Python\Visual Programming\TodayPrac\obj\Debug\net6.0\TodayPrac.csproj.CoreCompileInputs.cache
+D:\Python\Visual Programming\TodayPrac\obj\Debug\net6.0\TodayPrac.dll
+D:\Python\Visual Programming\TodayPrac\obj\Debug\net6.0\refint\TodayPrac.dll
+D:\Python\Visual Programming\TodayPrac\obj\Debug\net6.0\TodayPrac.pdb
+D:\Python\Visual Programming\TodayPrac\obj\Debug\net6.0\TodayPrac.genruntimeconfig.cache
+D:\Python\Visual Programming\TodayPrac\obj\Debug\net6.0\ref\TodayPrac.dll

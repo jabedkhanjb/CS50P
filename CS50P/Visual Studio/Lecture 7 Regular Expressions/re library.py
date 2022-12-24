@@ -18,7 +18,7 @@ $ matches the end of the string or just before the newline
 
 """
 
-if re.search(r".+@.+\.edu", email): # r refers to raw string, f stands for format string
+if re.search(r".+@.+\.edu$", email): # r refers to raw string, f stands for format string
     print("Valid")
 else:
     print("Invalid")

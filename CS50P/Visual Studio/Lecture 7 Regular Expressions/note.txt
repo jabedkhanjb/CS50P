@@ -1,0 +1,6 @@
+\d  decimal digit 
+\D  not a decimal digit
+\s  whitespace characters 
+\S  not a whitespace character
+\w  word character ... as well as numebers and the underscore 
+\W  not a word character 

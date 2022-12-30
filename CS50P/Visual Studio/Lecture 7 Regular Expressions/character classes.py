@@ -1,6 +1,6 @@
 import re
 
-email = input("Hey, input your email address: \n").strip()
+email = input("Hey, input your email address: \n").strip().lower()
 
 if re.search(r"^\w+@\w+\.edu$", email):
     print("Valid Email")

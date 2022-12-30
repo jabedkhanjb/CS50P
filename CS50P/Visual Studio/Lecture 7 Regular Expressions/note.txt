@@ -5,3 +5,19 @@ reference to character classes
 \S  not a whitespace character
 \w  word character ... as well as numebers and the underscore 
 \W  not a word character 
+
+
+"""
+1) .    any character except a new line
+2) *    0 or more repetitions
+3) +    1 or more repetitions
+4) ?    0 or 1 repetition
+5) {m}  m repetitions
+6) {m,n}    m-n repetitions
+"""
+"""
+^ matchs the start of the string
+$ matches the end of the string or just before the newline
+  at the end of the string
+
+"""

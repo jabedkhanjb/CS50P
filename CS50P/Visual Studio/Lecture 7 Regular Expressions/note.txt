@@ -1,3 +1,4 @@
+reference to character classes
 \d  decimal digit 
 \D  not a decimal digit
 \s  whitespace characters 

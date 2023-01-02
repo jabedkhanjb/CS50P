@@ -13,3 +13,12 @@ if username and "." in domain:
     print("Valid Email")
 else:
     print("Invalid Email")
+    
+mail = input("Insert your email address: ")
+
+uname, dname = mail.split("@")
+
+if uname and dname.endswith(".edu"):
+    print("Good Result")
+else:
+    print("Bad Result")

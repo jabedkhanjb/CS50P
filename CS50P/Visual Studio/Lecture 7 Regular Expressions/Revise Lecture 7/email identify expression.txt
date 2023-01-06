@@ -8,3 +8,5 @@
 $   matches the end of the string or
     just before the newline at the end of 
     the string
+[]  set of characters
+[^] complementing the set 

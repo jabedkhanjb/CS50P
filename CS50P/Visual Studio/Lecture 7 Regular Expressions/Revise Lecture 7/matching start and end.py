@@ -9,3 +9,5 @@ if re.search(r"^[^@]+@[^@]+\.edu$", email):
     print("Completely Valid")
 else:
     print("Mysteriously invalid")
+    
+    # depressed

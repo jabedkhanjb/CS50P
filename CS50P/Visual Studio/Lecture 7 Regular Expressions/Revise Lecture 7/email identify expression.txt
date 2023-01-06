@@ -10,3 +10,9 @@ $   matches the end of the string or
     the string
 []  set of characters
 [^] complementing the set 
+
+
+brief definiton:
+^   means "start matching at the beginning of the string"
+w   means "any word character"
++   means "one or more"

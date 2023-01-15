@@ -3,6 +3,8 @@ def main():
     # house = get_house()
     # name, house = get_student()
     student = get_student()
+    if student[0] == "Jabed":
+        student[1] = "Lakshmipur, Bangladesh"
     print(f"{student[0]} from {student[1]}".title())
 
 
@@ -14,9 +16,9 @@ def main():
 
 def get_student():
     name = input("Name: ").strip()
-    house = input("HOuse: ").strip()
+    house = input("House: ").strip()
     # return name, house
-    return (name, house)
+    return [name, house]
 
 
 

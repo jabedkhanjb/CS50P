@@ -1,5 +1,13 @@
+# import sys
+
 class Student:
     def __init__(self, name, house):
+        if not name:
+            raise ValueError("Missing name")
+        if house not in ["Dhaka", "Chittagong", "Lakshmipur"]:
+            raise ValueError("Invalid House")
+            # return None
+            # sys.exit("Missing name")
         self.name = name
         self.house = house
     
@@ -11,8 +19,9 @@ def main():
 def get_student():
     name = input("Name: ")
     house = input("House: ")
-    student = Student(name, house)
-    return student
+    return Student(name, house)
+    
+     
     
     
 if __name__ == "__main__":

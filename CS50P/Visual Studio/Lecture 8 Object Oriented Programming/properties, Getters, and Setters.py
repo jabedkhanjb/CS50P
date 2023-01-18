@@ -2,8 +2,8 @@ class Student:
     def __init__(self, name, house):
         if not name:
             raise ValueError("Missing name")
-        if house not in ["Dhaka", "Chittagong", "Lakshmipur"]:
-            raise ValueError("Invalid House")
+        # if house not in ["Dhaka", "Chittagong", "Lakshmipur"]:
+        #     raise ValueError("Invalid House")
         self.name = name
         self.house = house
         
@@ -13,18 +13,18 @@ class Student:
     
     @property
     def house(self):
-        return self.house
+        return self._house
     
     @house.setter
     def house(self, house):
         if house not in ["Dhaka", "Chittagong", "Lakshmipur"]:
             raise ValueError("Invalid House")
-        self.house = house
-        
+        self._house = house
+         
         
 def main():
     student = get_student()
-    student.house = "Number Four, Privet Drive"
+    # student.house = "Number Four, Privet Drive"
     print(student)
     
 def get_student():

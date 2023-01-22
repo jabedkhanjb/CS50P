@@ -1,13 +1,12 @@
 import random
 
 class Hat:
-    def __init__(self):
-        self.houses = ["Dhaka", "Chattogram", "Lakshmipur"]
+    
+    houses = ["Dhaka", "Chattogram", "Lakshmipur"]
         
-        
-    def sort(self, name):
-        print(name, "is in", random.choice(self.houses))
+    @classmethod    
+    def sort(cls, name):
+        print(name, "is in", random.choice(cls.houses))
     
     
-hat = Hat()
-hat.sort("Nanu")
+Hat.sort(input("> "))

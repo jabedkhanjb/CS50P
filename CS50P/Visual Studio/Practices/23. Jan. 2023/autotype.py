@@ -3,7 +3,7 @@ import pyautogui as jabedkhanjb
 import time
 
 msg_limit = input("Enter the no. of message: ")
-text_msg = input("Type something:\n")
+text_msg = input("Type something:\n").strip()
 
 i = 0
 time.sleep(5)
